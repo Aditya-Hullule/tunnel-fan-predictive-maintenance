@@ -20,7 +20,7 @@ It includes two Streamlit demos:
 ### 1. Clone & Navigate to Project
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/tunnel-fan-predictive-maintenance.git
+git clone https://github.com/Aditya-Hullule/tunnel-fan-predictive-maintenance.git
 cd tunnel-fan-predictive-maintenance
 ```
 
