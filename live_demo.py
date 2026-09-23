@@ -390,7 +390,7 @@ if start_button:
 
         history_placeholder.dataframe(
             pd.DataFrame(history),
-            use_container_width=True,
+            use_container_width=stretch,
             hide_index=True
         )
 
